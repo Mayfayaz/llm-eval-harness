@@ -1,6 +1,6 @@
 # llm-eval-harness
 
-A tiny, **dependency-free eval harness** for LLM outputs: score a model over a
+A **dependency-free eval harness** for LLM outputs: score a model over a
 task dataset with classic string metrics *and* a pluggable judge
 (LLM-as-judge), then get a Markdown report plus full JSON results.
 
